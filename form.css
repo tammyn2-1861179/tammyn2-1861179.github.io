@@ -1,0 +1,28 @@
+body {
+	background-color: #3C788F;
+	font-weight: bold;
+	font-family: "Arial";
+	text-shadow: 1px 1px gray;
+}
+
+#acc {
+	background-image: linear-gradient(to bottom right, #90305A, #AA7939);
+}
+
+#avail {
+	
+}
+
+#avail ul {
+	list-style-type: none;
+	text-decoration: underline black;
+}
+
+#ps {
+	
+}
+
+#ps img {
+	border-radius: 25px;
+	opacity: 0.5;
+}
